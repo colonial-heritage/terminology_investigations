@@ -2,16 +2,18 @@
 
 ## Premise
 
-- in many cases, Dutch titles & names for objects are not translations of Indonesian titles & names
+ - in many cases, Dutch titles & names for objects are not translations of Indonesian titles & names
   --> often, the Dutch terms are applied in hindsight, merely describing the kind of object from a Dutch lense)
 
- - consequences of that are:
-   - Indonesian objects are often not findable with the original Indonesian terminology
-   - objects and their cultural values and functions are misrepresented (e.g. saying simply "pot" when the object in question has spiritual value)
-   - connections between objects and concepts are missing in the collection 
+ - cultural & linguistic diversity on one hand and colonial simplification & confusion lead to competing terminologies and conflated and imprecise concepts  
 
- - Indonesian terminologies are (partly) present and linked to objects, meaning that they can be found
-   --> however, the object titles and descriptions often don't reflect this, don't mention those same terms and therefore make it intransparent _why_ an object corresponds to a search
+ - consequences of that are:
+   - general intransparency about what is present in the collection and which groups of objects are seen by the collection as belonging together (relatedness is vague)
+   - original Indonesian terminology often does not find all Indonesian objects & the coverage is unclear
+   - objects and their cultural values and functions are misrepresented (e.g. saying simply "pot" when the object in question has spiritual value)
+
+ - Indonesian terminologies are (partly) present in the thesaurus and linked to objects, meaning that objects can be found in such cases
+   --> however, the object titles and descriptions often don't reflect this, don't mention those same terms and therefore are not transparent about these connections that _do_ exist
 
 ## First Steps
 
@@ -44,22 +46,52 @@
 
 
 
-### sirih 
+### [Sirih](./sirih) 
 
- - aka (/sireh), pinang (/penang)
+Also occurs in the spellings 'sireh' and 'sereh'; also called 'pinang' (sometimes spelled 'penang'). Refers to what in Europe is mostly referred to as 'Betel nut' ('betel' from Malayalam via Portugese); there is confusion about terms used for the nut itself (from the Areca palm), the leaves of the Betel plant used to wrap the nut and the consumption as a whole.
 
- - sets used for consumption of Betel nuts (Areca nut)  
-
-Object records
-
- - "Betelstel - papangadjaiyang": https://hdl.handle.net/20.500.11840/592495  
-   -> found with term "pinang"
+Objects in the collection are mainly sets of dishes, tools and containers used for the storage and consumption of the nut (and any other ingredients). Thus, these are often referred to by terms related to sets, dishes, containers and tools. The terms 'betel' 'sirih' and 'pinang' sometimes seem to be used interchangeably and rarely occur together; differences in usage are: 'sirih' is more used for the consumption as a whole and the Betel leaf, 'pinang' mainly refers to the nut itself and 'betel' is noticeably less specific. 
 
 
-### martavan
 
- - aka (/martaban), tempayan, coengtong (-> where?)
- - term related to 'Gulf of Martaban' (also in the NMVW thesaurus), both named after a port-city in Myanmar with the same name
- - earthenware vessels used
+Some objects:  
+
+ - "Betelstel - papangadjaiyang": https://hdl.handle.net/20.500.11840/592495
+   --> Description: "Sirihstel met bakjes voor resp. pinang, gambir, sirihbladen en kalk."
+   --> found with term "pinang"  
+
+ - "Sirihdoos - ": https://hdl.handle.net/20.500.11840/738119
+   --> one of the recently restituted objects; part of the so-called "Treasure of Lombok"
+   --> contains the description "Een sirihpruim bestaat uit stukjes pinang, de noot van de arecapalm, tezamen met kalkpasta - vaak gemaakt van schelpen - en het sap van de gambirplant en eventueel nog tabak. Deze ingrediënten worden in een betelblad (= daun sirih) gewikkeld."
+
+
+#### [sirih](sirih.md)
+
+
+#### [pinang](pinang.md)
+
+#### [betel](betel.md)
+
+
+
+
+### [Martavan](./martavan)
+
+Also spelled 'Martaban' and 'Martavaan'; also known as 'tempayan' (is it the same kind of object? what's the difference?).  
+
+
+
+#### [martavan](martavan.md)
+
+#### [tempayan](tempayan.md)
+
+
+
+## General Observations & Outcomes
+
+ - the NMVW thesaurus does not contain links _between_ concepts (except for a broader/narrower hierarchy), so it cannot be determined from thesaurus that two terms refer to the same (similar) concepts
+ - 
+
+ - 
 
 
