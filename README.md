@@ -46,7 +46,7 @@
 
 
 
-### [Sirih](./sirih) 
+### Sirih
 
 Also occurs in the spellings 'sireh' and 'sereh'; also called 'pinang' (sometimes spelled 'penang'). Refers to what in Europe is mostly referred to as 'Betel nut' ('betel' from Malayalam via Portugese); there is confusion about terms used for the nut itself (from the Areca palm), the leaves of the Betel plant used to wrap the nut and the consumption as a whole.
 
@@ -65,25 +65,25 @@ Some objects:
    --> contains the description "Een sirihpruim bestaat uit stukjes pinang, de noot van de arecapalm, tezamen met kalkpasta - vaak gemaakt van schelpen - en het sap van de gambirplant en eventueel nog tabak. Deze ingrediënten worden in een betelblad (= daun sirih) gewikkeld."
 
 
-#### [sirih](sirih.md)
+#### [sirih](./sirih/sirih.md)
 
 
-#### [pinang](pinang.md)
+#### [pinang](./sirih/pinang.md)
 
-#### [betel](betel.md)
-
-
+#### [betel](./sirih/betel.md)
 
 
-### [Martavan](./martavan)
+
+
+### Martavan
 
 Also spelled 'Martaban' and 'Martavaan'; also known as 'tempayan' (is it the same kind of object? what's the difference?).  
 
 
 
-#### [martavan](martavan.md)
+#### [martavan](./martavan/martavan.md)
 
-#### [tempayan](tempayan.md)
+#### [tempayan](./martavan/tempayan.md)
 
 
 
