@@ -74,6 +74,8 @@ Some objects:
 
 
 
+## [Table with Terms from the Thesaurus](./sirih/Terms.md)
+
 
 ### Martavan
 
@@ -85,12 +87,14 @@ Also spelled 'Martaban' and 'Martavaan'; also known as 'tempayan' (is it the sam
 
 #### [tempayan](./martavan/tempayan.md)
 
+## [Table with Terms from the Thesaurus](./martavan/Terms.md)
 
 
 ## General Observations & Outcomes
 
  - the NMVW thesaurus does not contain links _between_ concepts (except for a broader/narrower hierarchy), so it cannot be determined from thesaurus that two terms refer to the same (similar) concepts
- - 
+
+   
 
  - 
 
